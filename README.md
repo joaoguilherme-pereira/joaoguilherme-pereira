@@ -99,7 +99,7 @@ Currently, I am in my second semester of a Computer Science degree at UNINTER, a
     alt="Github Stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=joaoguilherme-pereira&commits&theme=dark&include_all_comits=true)"
+    src="https://github-readme-stats.vercel.app/api?username=joaoguilherme-pereira&commits&theme=tokyonight&include_all_comits=true)"
 />   
             
 
@@ -108,7 +108,7 @@ Currently, I am in my second semester of a Computer Science degree at UNINTER, a
     alt="Github Stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilherme-pereira&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilherme-pereira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
 
 
